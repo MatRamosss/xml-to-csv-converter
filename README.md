@@ -10,19 +10,19 @@ What It Can Do For You
 
 **This little tool is all about saving you time and headaches with data cleanup:**
 
-1. Smart Sitemap Handling
+_1. Smart Sitemap Handling_
 
 It figures out the XML: Whether you give it a standard URL Sitemap (<url>) or a large Sitemap Index File (<sitemap>), it knows exactly what to do.
 
 Time Saver: It takes that technical <lastmod> timestamp and automatically splits it into two useful columns: Date Modified and Time Modified. This makes sorting and filtering in Excel or Google Sheets way simpler.
 
-2. Perfect CSV Exports
+_2. Perfect CSV Exports_
 
 You choose the format: Easily convert the parsed data into a CSV using the delimiter you need (Comma, Semicolon, Tab, or Pipe). Great for working with different spreadsheet programs (hello, European Excel users!).
 
 Bonus Cleanup: Got URLs wrapped in Google search parameters (like https://www.google.com/search?q=your-real-url)? Just check the "Clean URLs" option to instantly strip off the wrapper and get the clean destination URL.
 
-Get Started in Seconds
+_Get Started in Seconds_
 
 **It's genuinely just two steps:**
 
@@ -34,7 +34,7 @@ Then, paste your XML, pick your delimiter, and hit Convert XML & Download File. 
 
 Under the Hood
 
-**We kept it simple for maximum speed and zero dependencies:**
+**kept it simple for maximum speed and zero dependencies:**
 
 HTML5
 
